@@ -15,3 +15,13 @@ Github：https://github.com/JeremyChim/Ecall_Script
 ### v1.0
 
 2023.7.4
+
+- 新增丽敏同学的py脚本
+
+
+
+### v2.0
+
+2023.7.15
+
+- 新增小铭同学的bat脚本
