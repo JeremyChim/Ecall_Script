@@ -1,0 +1,1 @@
+tail -f /sdcard/log/mcu/dislog |grep -E "2424....0301.*351" &
